@@ -9,4 +9,3 @@ and little update,
 selector still may be peer_id
 peer_id for group conversation - chat id + 2000000000
 (yes, integer addition operation)
-
